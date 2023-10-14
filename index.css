@@ -1,0 +1,51 @@
+body{
+    padding: 2rem;
+}
+
+.main{
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    border: 2px solid grey;
+    box-shadow: 4px 4px 5px lightcoral;
+    
+}
+
+.icon{
+    height: 5vh;
+    align-items: left;
+    /* width: auto; */
+}
+
+.chobi{
+    height: 70%;
+}
+
+.chobi01{
+    height: 70%;
+
+}
+.SecondBox{
+    display: flex;
+    gap: 5vw;
+}
+
+.FirstBox {
+
+    display: flex; 
+    gap: 10vw;
+    
+}
+
+.thirdBox{
+    display: flex;
+}
+
+.orange{
+    background-color: rgb(234, 205, 151);
+}
+
+.Firstsub {
+    color: green;
+    font-size: 30pt;
+}
